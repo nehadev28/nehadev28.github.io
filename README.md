@@ -1,116 +1,41 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Neha D | Portfolio</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      background: #f4f6f8;
-      color: #333;
-    }
-    header {
-      background: #0a66c2;
-      color: white;
-      padding: 40px 20px;
-      text-align: center;
-    }
-    section {
-      padding: 40px 20px;
-      max-width: 900px;
-      margin: auto;
-    }
-    h2 {
-      color: #0a66c2;
-    }
-    .card {
-      background: white;
-      padding: 20px;
-      margin: 15px 0;
-      border-radius: 10px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    }
-    .skills span {
-      display: inline-block;
-      background: #e0ecff;
-      color: #0a66c2;
-      padding: 6px 10px;
-      border-radius: 5px;
-      margin: 5px;
-    }
-    footer {
-      text-align: center;
-      padding: 20px;
-      background: #222;
-      color: white;
-    }
-    a {
-      color: #0a66c2;
-      text-decoration: none;
-    }
-  </style>
-</head>
-<body>
+# Neha D
 
-<header>
-  <h1>Neha D</h1>
-  <p>AI & Data Science Student</p>
-  <p>Bengaluru, India</p>
-</header>
+> AI & Data Science Student | Bengaluru, India
 
-<section>
-  <h2>About Me</h2>
-  <div class="card">
-    <p>
-      I am an aspiring AI & Data Science student passionate about machine learning, data analysis, and building intelligent systems. 
-      I enjoy learning new technologies and solving real-world problems.
-    </p>
-  </div>
-</section>
+---
 
-<section>
-  <h2>Education</h2>
-  <div class="card">
-    <p><strong>Bachelor's in AI & Data Science</strong></p>
-    <p>2023 - Present</p>
-  </div>
-</section>
+## About Me
 
-<section>
-  <h2>Skills</h2>
-  <div class="card skills">
-    <span>C Programming</span>
-    <span>Python</span>
-    <span>Machine Learning</span>
-    <span>Data Analysis</span>
-    <span>Communication</span>
-  </div>
-</section>
+I am an aspiring AI & Data Science student passionate about machine learning, data analysis, and building intelligent systems. I enjoy learning new technologies and solving real-world problems.
 
-<section>
-  <h2>Projects</h2>
-  <div class="card">
-    <p><strong>Project 1:</strong> Add your project description here.</p>
-  </div>
-  <div class="card">
-    <p><strong>Project 2:</strong> Add your project description here.</p>
-  </div>
-</section>
+---
 
-<section>
-  <h2>Contact</h2>
-  <div class="card">
-    <p>Email: your-email@example.com</p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/neha-d-196bb4312" target="_blank">View Profile</a></p>
-  </div>
-</section>
+## Education
 
-<footer>
-  <p>© 2026 Neha D | Portfolio</p>
-</footer>
+**Bachelor's in AI & Data Science**  
+2023 - Present
 
-</body>
-</html>
-# nehadev28.github.io
+---
+
+## Skills
+
+`C Programming` `Python` `Machine Learning` `Data Analysis` `Communication`
+
+---
+
+## Projects
+
+**Project 1:** Add your project description here.
+
+**Project 2:** Add your project description here.
+
+---
+
+## Contact
+
+📧 **Email:** your-email@example.com  
+🔗 **LinkedIn:** [View Profile](https://www.linkedin.com/in/neha-d-196bb4312)
+
+---
+
+*© 2026 Neha D | Portfolio*
